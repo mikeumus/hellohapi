@@ -10,6 +10,6 @@
   "author": "mikeumus",
   "license": "BSD",
   "dependencies": {
-    "hapi": "~2.0.0-preview"
+    "hapi": "1.x.x"
   }
 }
